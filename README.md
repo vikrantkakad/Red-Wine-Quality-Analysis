@@ -1,5 +1,5 @@
 # Red-Wine-Quality-Analysis
-#### Basic descriptive and predictive analysis of Red wine quality data using Python
+## Basic descriptive and predictive analysis of Red wine quality data using Python:
 
 Welcome, and thank you for opening this Project. This project contains a jupyter notebook which will provide knowledge to novice Data Scientists with basic Data Analysis/Machine Learning concepts like:
 
@@ -21,7 +21,7 @@ Welcome, and thank you for opening this Project. This project contains a jupyter
 - Deriving Conclusion/Insights from the data
 
 
-#### About the Red Wine quality dataset:
+## Dataset:
 __Name:__ Red Wine Quality Data Set<br/>
 __Source:__ [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)<br/>
 __Input variables:__
