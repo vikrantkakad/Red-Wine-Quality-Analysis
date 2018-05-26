@@ -43,3 +43,4 @@ __Number of Observations:__ 1599<br/>
 __Number of Attributes/Variables:__ 12<br/>
 __Missing Values:__ N/A<br/>
 
+#### Kaggle Link for the Notebook and Data: [Red Wine Data Analysis: Descriptive & Predictive](https://www.kaggle.com/vgkakad/red-wine-data-analysis-descriptive-predictive/notebook)
